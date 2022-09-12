@@ -1,10 +1,10 @@
 {
-  "name": "com.varneon.vudon.repository-template",
-  "displayName": "VUdon - Repository Template",
+  "name": "com.varneon.vudon.visibility-sensors",
+  "displayName": "VUdon - Visibility Sensors",
   "version": "0.0.1",
   "unity": "2019.4",
   "unityRelease": "29f1",
-  "description": "Template repository for VUdon packages",
+  "description": "Various sensors for detecting a renderer's visibility state and relaying it to e.g. GameObject's active state, UdonBehaviour variables, etc.",
   "author": {
     "name": "Varneon",
     "url": "https://github.com/Varneon"

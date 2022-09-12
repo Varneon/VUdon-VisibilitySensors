@@ -1,5 +1,5 @@
 {
-    "name": "Varneon.VUdon.RepositoryTemplate.Editor",
+    "name": "Varneon.VUdon.VisibilitySensors.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
