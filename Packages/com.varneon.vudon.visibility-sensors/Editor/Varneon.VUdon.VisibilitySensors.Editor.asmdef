@@ -1,6 +1,8 @@
 {
     "name": "Varneon.VUdon.VisibilitySensors.Editor",
-    "references": [],
+    "references": [
+        "Varneon.VUdon.VisibilitySensors.Runtime"
+    ],
     "includePlatforms": [
         "Editor"
     ],
