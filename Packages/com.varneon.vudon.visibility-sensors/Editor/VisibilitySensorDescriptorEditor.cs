@@ -131,8 +131,7 @@ namespace Varneon.VUdon.VisibilitySensors.Editor
         private void ApplyTransitionHeight(float transitionHeight)
         {
             lodGroup.SetLODs(new LOD[] {
-                new LOD(transitionHeight, new Renderer[]{ meshRenderer }),
-                new LOD(0f, new Renderer[0])
+                new LOD(transitionHeight, new Renderer[]{ meshRenderer })
             });
         }
 
