@@ -6,6 +6,7 @@ namespace Varneon.VUdon.VisibilitySensors
     /// <summary>
     /// Visibility Sensor for activating and deactivating GameObjects
     /// </summary>
+    [AddComponentMenu("VUdon/Visibility Sensors/VisibilitySensor - GameObject")]
     public class VisibilitySensorGameObject : VisibilitySensor
     {
         /// <summary>
