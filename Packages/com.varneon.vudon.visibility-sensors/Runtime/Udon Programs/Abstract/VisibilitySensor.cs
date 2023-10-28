@@ -9,6 +9,7 @@ namespace Varneon.VUdon.VisibilitySensors.Abstract
     /// <remarks>
     /// Highly performant solution for culling canvases, setting a bool on an UdonBehaviour to minimize operations, etc.
     /// </remarks>
+    [DisallowMultipleComponent]
     [RequireComponent(typeof(VisibilitySensorDescriptor))] // VisibilitySensorDescriptor overrides the LODGroup, MeshFilter and MeshRenderer components, which are required for VisibilitySensor to work
     [UdonBehaviourSyncMode(BehaviourSyncMode.None)]
     public abstract class VisibilitySensor : UdonSharpBehaviour
