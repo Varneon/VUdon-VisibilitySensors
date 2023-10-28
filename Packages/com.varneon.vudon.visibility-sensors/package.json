@@ -1,7 +1,7 @@
 {
   "name": "com.varneon.vudon.visibility-sensors",
   "displayName": "VUdon - Visibility Sensors",
-  "version": "0.0.1",
+  "version": "0.1.0-beta.1",
   "unity": "2019.4",
   "unityRelease": "29f1",
   "description": "Various sensors for detecting a renderer's visibility state and relaying it to e.g. GameObject's active state, UdonBehaviour variables, etc.",
