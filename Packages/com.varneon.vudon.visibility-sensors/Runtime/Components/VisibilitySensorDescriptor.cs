@@ -5,6 +5,7 @@ namespace Varneon.VUdon.VisibilitySensors
     /// <summary>
     /// Helper component that overrides the LODGroup, MeshFilter and MeshRenderer, which are required for VisibilitySensor to work
     /// </summary>
+    [AddComponentMenu("")]
     [RequireComponent(typeof(LODGroup))]
     [RequireComponent(typeof(MeshFilter))]
     [RequireComponent(typeof(MeshRenderer))]
