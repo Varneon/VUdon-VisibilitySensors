@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: VisibilitySensorGameObject
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 4087166e617556d4383543263ce03b86,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 2cc78e31b8f133446b3bb0f30203f74b,
     type: 2}
   udonAssembly: 
   assemblyError: 
